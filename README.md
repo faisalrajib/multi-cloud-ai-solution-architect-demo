@@ -21,7 +21,10 @@ A cloud-agnostic AI Knowledge Assistant that:
 See `/architecture/overview.md`
 
 ## Insights
+| Insight | Output |
+| ------- | ------ |
 | AI System Architecture |	Architecture diagrams + modular design |
+
 LLM Integration	Prompt orchestration, RAG, evaluation
 Cloud-Native Design	Containerization, IaC-ready structure
 Data Engineering	Ingestion, vector stores, pipelines
