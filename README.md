@@ -24,12 +24,11 @@ See `/architecture/overview.md`
 | Insight | Output |
 | ------- | ------ |
 | AI System Architecture |	Architecture diagrams + modular design |
-
-LLM Integration	Prompt orchestration, RAG, evaluation
-Cloud-Native Design	Containerization, IaC-ready structure
-Data Engineering	Ingestion, vector stores, pipelines
-MLOps / LLMOps	Versioning, monitoring, eval hooks
-API Design	REST endpoints for AI services
-Security & Governance	Auth, logging, guardrails
-Business Thinking	Clear use case & ROI framing
+| LLM Integration |	Prompt orchestration, RAG, evaluation |
+| Cloud-Native Design |	Containerization, IaC-ready structure |
+| Data Engineering |	Ingestion, vector stores, pipelines |
+| MLOps / LLMOps | 	Versioning, monitoring, eval hooks |
+| API Design |	REST endpoints for AI services |
+| Security & Governance |	Auth, logging, guardrails |
+| Business Thinking |	Clear use case & ROI framing |
 
