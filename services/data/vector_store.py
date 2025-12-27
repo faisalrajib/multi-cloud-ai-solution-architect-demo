@@ -1,5 +1,18 @@
+def index_documents(chunks):
+    """
+    Index document chunks into the vector database.
+    """
+    # Placeholder for embedding + indexing logic
+    print(f"Indexing {len(chunks)} chunks")
+
+
 def search_documents(query: str):
+    """
+    Search the vector database for relevant documents.
+    """
     return [
-        "Company policy document excerpt",
-        "Technical architecture note excerpt"
+        "Enterprise policy document excerpt",
+        "Architecture guideline excerpt"
     ]
+
+
